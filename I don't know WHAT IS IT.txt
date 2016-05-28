@@ -1,0 +1,3 @@
+It is a calendar.
+You should write in <body> in place where calendar must be:
+<script>calendar()</script>
