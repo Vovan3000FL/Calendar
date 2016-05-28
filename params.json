@@ -1,0 +1,6 @@
+{
+  "name": "Calendar",
+  "tagline": "Use calendar in your site",
+  "body": "<html>\r\n<head>\r\n<script src=\"calendar.js\"></script>\r\n</head>\r\n<body>\r\n<script>\r\ncalendar();\r\n</script>\r\n</body>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
